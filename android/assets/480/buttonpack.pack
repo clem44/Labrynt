@@ -1,0 +1,152 @@
+
+buttonpack.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+scoreboard
+  rotate: false
+  xy: 2, 386
+  size: 212, 105
+  orig: 212, 105
+  offset: 0, 0
+  index: -1
+btn1
+  rotate: false
+  xy: 216, 407
+  size: 230, 84
+  orig: 230, 84
+  offset: 0, 0
+  index: -1
+btn1Pressed
+  rotate: false
+  xy: 448, 407
+  size: 230, 84
+  orig: 230, 84
+  offset: 0, 0
+  index: -1
+menuButton
+  rotate: false
+  xy: 680, 431
+  size: 242, 60
+  orig: 242, 60
+  offset: 0, 0
+  index: -1
+menuButtonDown
+  rotate: false
+  xy: 2, 324
+  size: 242, 60
+  orig: 242, 60
+  offset: 0, 0
+  index: -1
+menuButtonOver
+  rotate: false
+  xy: 2, 262
+  size: 242, 60
+  orig: 242, 60
+  offset: 0, 0
+  index: -1
+mic-off
+  rotate: false
+  xy: 2, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+mic-on
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+panel
+  rotate: false
+  xy: 246, 319
+  size: 164, 86
+  orig: 164, 86
+  offset: 0, 0
+  index: -1
+button0
+  rotate: false
+  xy: 132, 160
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+button1
+  rotate: false
+  xy: 132, 58
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+btn2
+  rotate: false
+  xy: 412, 336
+  size: 130, 69
+  orig: 130, 69
+  offset: 0, 0
+  index: -1
+btn2Pressed
+  rotate: false
+  xy: 544, 336
+  size: 130, 69
+  orig: 130, 69
+  offset: 0, 0
+  index: -1
+musicOff
+  rotate: false
+  xy: 246, 217
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+musicOn
+  rotate: false
+  xy: 234, 115
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+nextbtn0
+  rotate: false
+  xy: 348, 217
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+nextbtn1
+  rotate: false
+  xy: 336, 115
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+soundOff
+  rotate: false
+  xy: 450, 234
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+soundOn
+  rotate: false
+  xy: 552, 234
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+menuBtn0
+  rotate: false
+  xy: 924, 411
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+menuBtn1
+  rotate: false
+  xy: 234, 33
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1

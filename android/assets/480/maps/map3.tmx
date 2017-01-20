@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="15" height="16" tilewidth="96" tileheight="96" nextobjectid="1">
+ <tileset firstgid="1" name="endTiles" tilewidth="96" tileheight="96">
+  <image source="endTiles.png" width="288" height="288"/>
+ </tileset>
+ <tileset firstgid="10" name="tiles" tilewidth="96" tileheight="96">
+  <image source="tiles.png" width="576" height="576"/>
+ </tileset>
+ <tileset firstgid="46" name="goal-tiles" tilewidth="96" tileheight="96">
+  <image source="goal-tiles.png" width="480" height="384"/>
+ </tileset>
+ <tileset firstgid="66" name="spaceTileS" tilewidth="96" tileheight="96">
+  <image source="spaceTileS.jpg" width="1536" height="1536"/>
+ </tileset>
+ <tileset firstgid="322" name="spaceTileD" tilewidth="96" tileheight="96">
+  <image source="spaceTileD.jpg" width="1536" height="1536"/>
+ </tileset>
+ <layer name="floor" width="15" height="16">
+  <data encoding="base64" compression="zlib">
+   eJwVz+WPDwAAgOEfp3u6z3C6ppu/QTvOmW6mm+lm8tSdcfrEdDOue7qZbqbbPT48H98Pb4dsgUBHOtGZLnSlG90JpQc9CaMX4fSmD33pR38GMJBBDGYIQxnGcEYwklGMZgxjGcd4JjCRSUxmClOZxnRmMJNZzGYOc5nHfBawkEUsZglLWcZyVrCSVaxmDWtZRwTr2cBGNrGZSKLYwla2Ec12drCTXexmD3uJYR/7OcBBDnGYIxzlGMc5wUlOcZoznOUc57nARS4RSxzxJJBIEsmkkEoa6WSQ+b8NaIkljngSSCSJZFJIJY10MsjkMle4yjWuc4Ob3OI2d7jLPe7zgIc84jFPeMoznvOCl7ziNW94yzve84GPfOIzX/jKN77zg5/84jd/+Ms/An6zE0QOcpKL3OQhL/nITwEKUojCFKEoxShOCUpSitKUoSzlKE8FKhJMJSpThaqEUI3q1KAmtahNHepSj/o0oCGNaEwTmtKM5rSgJa1oTRva0o72ZAHOBYAm
+  </data>
+ </layer>
+ <layer name="path" width="15" height="16">
+  <data encoding="base64" compression="zlib">
+   eJytT+0KgCAM9BlE+gCzqP7Y+z9gCgvG2OmQDo7h8D7m3D9YGRECcdRDaj3wsGo5ZW4QRNA6tP5rHUa0PFveovVKINuLnaa9Qf7S8auIhRubifxknxlkcEw0P5+98KB3DxHsL4P2BPtWruxYc+rdufAx5lrwAmNdBts=
+  </data>
+ </layer>
+ <layer name="goal" width="15" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYCAOmAKxGZFq0YEVEFuTqXcUjIJRgBsAAAu9AOE=
+  </data>
+ </layer>
+ <layer name="blocked" width="15" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAcsFDBjKFg50ADxoF2wCjAAGwDbD8AIuQAEA==
+  </data>
+ </layer>
+ <layer name="start" width="15" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUwAAXEHOTqVcAiAWhZpAKxIBYnAx9AC5oAG4=
+  </data>
+ </layer>
+</map>

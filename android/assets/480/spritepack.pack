@@ -1,0 +1,89 @@
+
+spritepack.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sprite
+  rotate: false
+  xy: 2, 118
+  size: 84, 114
+  orig: 84, 114
+  offset: 0, 0
+  index: 0
+Sprite
+  rotate: false
+  xy: 2, 2
+  size: 84, 114
+  orig: 84, 114
+  offset: 0, 0
+  index: 1
+Sprite
+  rotate: false
+  xy: 88, 118
+  size: 84, 114
+  orig: 84, 114
+  offset: 0, 0
+  index: 2
+Sprite
+  rotate: false
+  xy: 88, 2
+  size: 84, 114
+  orig: 84, 114
+  offset: 0, 0
+  index: 3
+Sprite
+  rotate: false
+  xy: 174, 118
+  size: 84, 114
+  orig: 84, 114
+  offset: 0, 0
+  index: 4
+Sprite
+  rotate: false
+  xy: 174, 2
+  size: 84, 114
+  orig: 84, 114
+  offset: 0, 0
+  index: 5
+Sprite
+  rotate: false
+  xy: 260, 118
+  size: 84, 114
+  orig: 84, 114
+  offset: 0, 0
+  index: 6
+Sprite
+  rotate: false
+  xy: 260, 2
+  size: 84, 114
+  orig: 84, 114
+  offset: 0, 0
+  index: 7
+enemy
+  rotate: false
+  xy: 346, 142
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: 0
+enemy
+  rotate: false
+  xy: 346, 50
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: 1
+enemy
+  rotate: false
+  xy: 438, 142
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: 2
+enemy
+  rotate: false
+  xy: 438, 50
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: 3

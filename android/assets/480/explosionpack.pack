@@ -1,0 +1,124 @@
+
+explosionpack.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+explosion
+  rotate: false
+  xy: 2, 352
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: 0
+explosion
+  rotate: false
+  xy: 2, 194
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: 1
+explosion
+  rotate: false
+  xy: 160, 352
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: 10
+explosion
+  rotate: false
+  xy: 2, 36
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: 11
+explosion
+  rotate: false
+  xy: 160, 194
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: 2
+explosion
+  rotate: false
+  xy: 318, 352
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: 3
+explosion
+  rotate: false
+  xy: 160, 36
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: 4
+explosion
+  rotate: false
+  xy: 318, 194
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: 5
+explosion
+  rotate: false
+  xy: 476, 352
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: 6
+explosion
+  rotate: false
+  xy: 318, 36
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: 7
+explosion
+  rotate: false
+  xy: 476, 194
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: 8
+explosion
+  rotate: false
+  xy: 634, 352
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: 9
+plasma
+  rotate: false
+  xy: 2, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 0
+plasma
+  rotate: false
+  xy: 476, 160
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+plasma
+  rotate: false
+  xy: 634, 318
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+plasma
+  rotate: false
+  xy: 792, 476
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+plasma
+  rotate: false
+  xy: 36, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
